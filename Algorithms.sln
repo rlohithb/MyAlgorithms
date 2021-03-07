@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFirrstNNaturalNumbers", "SumOfFirrstNNaturalNumbers\SumOfFirrstNNaturalNumbers.csproj", "{E456D42C-B46B-4E66-8CD3-B265E93216FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeInAString", "LongestPalindromeInAString\PalindromeInAString.csproj", "{E394FEF0-5D1D-4F8E-A499-11B14160811C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatricesBy90", "RotateMatricesBy90\RotateMatricesBy90.csproj", "{85B13F2D-6ABF-480E-AA9A-D5C0822EF2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationOfStringInString", "PermutationOfStringInString\PermutationOfStringInString.csproj", "{D1606A3E-018A-4C75-B099-18534AF3AF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{CFD7FA67-0CDA-403C-8879-3A1DEA276602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{EB5D17A5-C7A7-413F-94C8-CF56A13C6B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E456D42C-B46B-4E66-8CD3-B265E93216FC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E456D42C-B46B-4E66-8CD3-B265E93216FC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E456D42C-B46B-4E66-8CD3-B265E93216FC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E456D42C-B46B-4E66-8CD3-B265E93216FC}.Release|anycpu.Build.0 = Release|anycpu
+		{E394FEF0-5D1D-4F8E-A499-11B14160811C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E394FEF0-5D1D-4F8E-A499-11B14160811C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E394FEF0-5D1D-4F8E-A499-11B14160811C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E394FEF0-5D1D-4F8E-A499-11B14160811C}.Release|anycpu.Build.0 = Release|anycpu
+		{85B13F2D-6ABF-480E-AA9A-D5C0822EF2B5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{85B13F2D-6ABF-480E-AA9A-D5C0822EF2B5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{85B13F2D-6ABF-480E-AA9A-D5C0822EF2B5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{85B13F2D-6ABF-480E-AA9A-D5C0822EF2B5}.Release|anycpu.Build.0 = Release|anycpu
+		{D1606A3E-018A-4C75-B099-18534AF3AF42}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D1606A3E-018A-4C75-B099-18534AF3AF42}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D1606A3E-018A-4C75-B099-18534AF3AF42}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D1606A3E-018A-4C75-B099-18534AF3AF42}.Release|anycpu.Build.0 = Release|anycpu
+		{CFD7FA67-0CDA-403C-8879-3A1DEA276602}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CFD7FA67-0CDA-403C-8879-3A1DEA276602}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CFD7FA67-0CDA-403C-8879-3A1DEA276602}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CFD7FA67-0CDA-403C-8879-3A1DEA276602}.Release|anycpu.Build.0 = Release|anycpu
+		{EB5D17A5-C7A7-413F-94C8-CF56A13C6B99}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EB5D17A5-C7A7-413F-94C8-CF56A13C6B99}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EB5D17A5-C7A7-413F-94C8-CF56A13C6B99}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EB5D17A5-C7A7-413F-94C8-CF56A13C6B99}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD7B6BF-3C1C-4774-BF4C-C37E4B2561C2}
+	EndGlobalSection
+EndGlobal
